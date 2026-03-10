@@ -1,3 +1,5 @@
+# Copyright IBM Corp. 2020
+
 import mysql.connector
 from mysql.connector import errorcode
 import datetime

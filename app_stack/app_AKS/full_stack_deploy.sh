@@ -1,4 +1,6 @@
 #!/bin/bash
+# Copyright IBM Corp. 2020
+
 # set -v
 
 # if [ -z "$1" ]

@@ -1,3 +1,5 @@
+# Copyright IBM Corp. 2020
+
 variable "gcp_region" {
   description = "GCP region, e.g. us-east1"
   default     = "australia-southeast1"

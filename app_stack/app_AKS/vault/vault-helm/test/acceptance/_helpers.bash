@@ -1,3 +1,5 @@
+# Copyright IBM Corp. 2020
+
 # name_prefix returns the prefix of the resources within Kubernetes.
 name_prefix() {
     printf "vault"

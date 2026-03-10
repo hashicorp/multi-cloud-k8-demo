@@ -1,3 +1,5 @@
+# Copyright IBM Corp. 2020
+
 FROM python:3
 
 RUN apt update && apt install -y shellinabox tcpdump && pip3 install Flask mysql-connector-python hvac requests

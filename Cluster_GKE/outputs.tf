@@ -1,3 +1,5 @@
+# Copyright IBM Corp. 2020
+
 
 //K8s Cluster
 output "k8s_endpoint" {

@@ -1,3 +1,5 @@
+# Copyright IBM Corp. 2020
+
 #
 # EKS Worker Nodes Resources
 #  * IAM role allowing Kubernetes actions to access other AWS services

@@ -1,3 +1,5 @@
+# Copyright IBM Corp. 2020
+
 provider "google" {
   project = "${var.project}"
   region  = "us-central1"

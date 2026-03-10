@@ -1,4 +1,6 @@
 #!/bin/sh
+# Copyright IBM Corp. 2020
+
 
 OUTPUT=/tmp/output.txt
 
