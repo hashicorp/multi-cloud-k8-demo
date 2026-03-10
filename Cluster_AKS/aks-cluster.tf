@@ -1,3 +1,5 @@
+# Copyright IBM Corp. 2020
+
 provider "azurerm" {
   version = "~> 1.27.0"
 }

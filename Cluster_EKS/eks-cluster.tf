@@ -1,3 +1,5 @@
+# Copyright IBM Corp. 2020
+
 #
 # EKS Cluster Resources
 #  * IAM Role to allow EKS service to manage other AWS services
